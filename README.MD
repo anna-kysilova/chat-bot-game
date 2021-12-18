@@ -1,5 +1,7 @@
 # Simple Telegram based game
 
+Test branch
+
 This project uses under the hood a popular java abstraction library for accessing Telegram Bot API - [org.telegram.telegrambots](https://github.com/rubenlagus/TelegramBots)
 
 ## How to
