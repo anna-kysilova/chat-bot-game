@@ -23,6 +23,22 @@ class GameTest {
         RESPONSE res = testSubject.reactOnGamerMessage(start);
         assertEquals(RESPONSE.START, res);
     }
+    
+    //5 1
+    @org.junit.jupiter.api.Test
+    void should_return_false_for_text_anyText() {
+        String s = "qwerty";
+        boolean res = testSubject.isInteger(s);
+        assertEquals(false, res);
+    }
+
+    //5 2
+    @org.junit.jupiter.api.Test
+    void should_return_true_for_int_100() {
+        String s = "100";
+        boolean res = testSubject.isInteger(s);
+        assertEquals(true, res);
+    }
 
     public Message buildMessage(final String text){
         try {
