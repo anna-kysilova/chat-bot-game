@@ -1,3 +1,5 @@
+![example workflow](https://github.com/anna-kysilova/chat-bot-game/blob/master/.github/workflows/main.yml/badge.svg)
+
 # Simple Telegram based game
 
 Test branch
