@@ -1,16 +1,5 @@
 ![example workflow](https://github.com/anna-kysilova/chat-bot-game/actions/workflows/main.yml/badge.svg)
 
-### Test
-
-`test`
-
-**test**
-
-*test*
-
-***test***
-
-``test``
 
 # Simple Telegram based game
 
@@ -39,3 +28,16 @@ This project uses under the hood a popular java abstraction library for accessin
 3. Start to send your guess to the chat and enjoy
 
 ![screenshot](https://raw.githubusercontent.com/devatlant/chat-bot-game/master/res/telegram_screenshot.jpg)
+
+### Anna Kysilova
+
+**Technical skills**
+
+`Machine learning` `Data Analysis` `Data Visualisation`
+``R`` ``Python`` ``Power BI``
+
+***Soft Skills***
+
+*Autonomy, Work in team*
+
+
